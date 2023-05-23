@@ -9,15 +9,15 @@
 
 - 🤝 I’m looking for help with [getting my Healio project launched to the public.](https://github.com/jaredsurya/healio)
 
-- 👨‍💻 All of my projects are available at [jared-dietz.vercel.app](jared-dietz.vercel.app)
+- 👨‍💻 All of my projects are available on [my portfolio.](jared-dietz.vercel.app)
 
-- 📝 I regularly write articles on [https://dev.to/jaredsurya](https://dev.to/jaredsurya)
+- 📝 I regularly write articles on [dev.to](https://dev.to/jaredsurya)
 
 - 💬 Ask me about **Material UI.**
 
 - 📫 How to reach me **jaredsurya@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1lt64jUcBjaQp8nZUmw2vrEHZ_IAfGXn2DoVjzmng920/edit?usp=sharing](https://docs.google.com/document/d/1lt64jUcBjaQp8nZUmw2vrEHZ_IAfGXn2DoVjzmng920/edit?usp=sharing)
+- 📄 Learn about my experiences [here. (link to resume)](https://docs.google.com/document/d/1lt64jUcBjaQp8nZUmw2vrEHZ_IAfGXn2DoVjzmng920/edit?usp=sharing)
 
 - ⚡ Fun fact **I love traveling and meditating.**
 
